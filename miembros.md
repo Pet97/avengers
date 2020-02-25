@@ -2,6 +2,7 @@
 
 * Black panther
 * Black Widow
+* Capitan loco
 * Capitán Marvel
 * Falcon
 * Hank Pym
